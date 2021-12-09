@@ -162,6 +162,9 @@ class GuidelinePainter extends CustomPainter {
   bool shouldRepaint(CustomPainter oldDelegate) => true;
 }
 
+
+
+
 // import 'package:camera/camera.dart';
 // import 'package:flutter/material.dart';
 // import 'package:path_provider/path_provider.dart';
